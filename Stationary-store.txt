@@ -2,6 +2,9 @@ Hiii We have opened a stationary store. You all request to please come to visit.
 
 Our store name is XYZ store.
 
+The things available in our store are as follows:
+
+Compass Box, Pencil, Pen, Eraser, Ruler, Books.
 
 
 Thank you:)
